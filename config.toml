@@ -13,3 +13,11 @@ integrations-source = "inotia00/revanced-integrations"
 arch = "arm64-v8a"
 included-patches = "'Hide ads' 'Change start page' 'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music' 'Dark theme' 'Remove background playback restrictions' 'Bitrate default value' 'Sanitize sharing links' 'GmsCore support' 'Settings for YouTube Music'"
 exclusive-patches = true
+
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+arch = "arm64-v8a"
+included-patches = "'Hide ads' 'Hook YouTube Music actions' 'Navigation bar components' 'Change start page' 'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Theme' 'Remove background playback restrictions' 'Bypass URL redirects' 'Open links externally' 'Sanitize sharing links' 'GmsCore support' 'Settings for YouTube'"
+exclusive-patches = true
