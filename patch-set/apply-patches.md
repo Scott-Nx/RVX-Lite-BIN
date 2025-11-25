@@ -4,7 +4,6 @@
 - Change start page
 - Custom branding icon for YouTube Music
 - Custom branding name for YouTube Music
-- Dark theme
 - Remove background playback restrictions
 - Bitrate default value
 - Sanitize sharing links
@@ -19,6 +18,7 @@
 - Change start page
 - Custom branding icon for YouTube
 - Custom branding name for YouTube
-- Theme
 - Remove background playback restrictions
-- Open links externally
+- Bypass URL redirects
+- Sanitize sharing links
+- Settings for YouTube
