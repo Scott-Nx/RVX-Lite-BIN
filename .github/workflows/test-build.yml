@@ -1,5 +1,8 @@
 name: Build Test
 on:
+  push:
+    paths:
+      - config.toml
   workflow_dispatch:
 
 jobs:
