@@ -4,6 +4,8 @@
 
 A precompiled binary package (apk) of Revanced Extended (RVX) that uses a minimal set of patches.
 
+See the [patch list](./patch-set/apply-patches.md) for details.
+
 Get the [latest CI release](https://github.com/Scott-Nx/RVX-Lite-BIN/releases).
 
 <details><summary><big>Features</big></summary>

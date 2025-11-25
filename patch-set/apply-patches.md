@@ -21,5 +21,4 @@
 - Custom branding name for YouTube
 - Theme
 - Remove background playback restrictions
-- Bypass URL redirects
 - Open links externally
